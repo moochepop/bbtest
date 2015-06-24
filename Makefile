@@ -3,4 +3,4 @@ all : 	main.o
 
 clean:
 	rm -f *.o
-	rm a.out
+	rm *.out
